@@ -1,0 +1,7 @@
+1 - Buscar libroE por titulo (Guardarlo en la db. Mostrar titulo, autor, idiomas, numero de descargas)
+2 - Listar libros registrados (Mostrar titulo, autor, idiomas, numero de descargas)
+3 - Listar autores registrados (Mostrar autor, fecha de nacimiento, fecha de fallecimiento, libros)
+4 - Listar autores vivos en un determinado año (Pedir fecha para ver que autores están vivos en ese año,
+Mostrar autor, fecha de nacimiento, fecha de fallecimiento, libros)
+5 - Listar libros por idioma (Desplegar opción para saber que idioma quiere buscar y retornar el libroE
+ -> Mostrar titulo, autor, idiomas, numero de descargas)
